@@ -10,4 +10,4 @@ public class notaAluno {
             System.out.println("O aluno não foi aprovado");
         }
     }
-}
+}  
